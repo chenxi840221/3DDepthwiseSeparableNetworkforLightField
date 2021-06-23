@@ -1,0 +1,8 @@
+Loading python3/3.7.4
+  Loading requirement: intel-mkl/2019.3.199
+/home/549/xc0957/.local/lib/python3.7/site-packages/torch/nn/functional.py:1625: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Traceback (most recent call last):
+  File "myepi.py", line 359, in <module>
+    savefile = 'Batch'+str(bb)+'Group'+str(nsub)+'epoch'+str(epoch)+'Loss'+str(loss.cpu().detach().numpy())+'.sav'
+NameError: name 'nsub' is not defined

@@ -1,0 +1,24 @@
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 2: $'\r': command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 11: $'\r': command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 12: from: command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 17: $'\r': command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 21: $'\r': command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 23: from: command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 25: from: command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 27: $'\r': command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 31: from: command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 32: from: command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/344.
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 37: $'\r': command not found
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 38: syntax error near unexpected token `$':\r''
+/local/spool/pbs/mom_priv/jobs/10682827.gadi-pbs.SC: line 38: `if torch.cuda.is_available():'

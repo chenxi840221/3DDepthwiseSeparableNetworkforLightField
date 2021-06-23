@@ -1,0 +1,8 @@
+Loading python3/3.7.4
+  Loading requirement: intel-mkl/2019.3.199
+/home/549/xc0957/.local/lib/python3.7/site-packages/torchvision/transforms/transforms.py:256: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  warnings.warn("The use of the transforms.Scale transform is deprecated, " +
+Traceback (most recent call last):
+  File "myepi.py", line 311, in <module>
+    out = model(EPI_h1_p,EPI_h2_p,EPI_v1_p,EPI_v2_p)
+NameError: name 'EPI_h1_p' is not defined

@@ -1,0 +1,10 @@
+Loading python3/3.7.4
+  Loading requirement: intel-mkl/2019.3.199
+/home/549/xc0957/.local/lib/python3.7/site-packages/torchvision/transforms/transforms.py:256: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  warnings.warn("The use of the transforms.Scale transform is deprecated, " +
+Traceback (most recent call last):
+  File "myepi.py", line 271, in <module>
+    traindata_gt_all,EPI_h_all,EPI_v_all,iframes=load_LFdata_all(256)
+  File "/scratch/tg3/xc0957/myepinet_mulgpu2/util.py", line 219, in load_LFdata_all
+    traindata_gt = torch.cat((traindata_gt_1,traindata_gt_2,traindata_gt_3,traindata_gt_4,traindata_gt_5),0)
+NameError: name 'traindata_gt_3' is not defined

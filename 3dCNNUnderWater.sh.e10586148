@@ -1,0 +1,10 @@
+Loading python3/3.7.4
+  Loading requirement: intel-mkl/2019.3.199
+/home/549/xc0957/.local/lib/python3.7/site-packages/torchvision/transforms/transforms.py:256: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  warnings.warn("The use of the transforms.Scale transform is deprecated, " +
+/home/549/xc0957/.local/lib/python3.7/site-packages/torch/nn/functional.py:1625: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Traceback (most recent call last):
+  File "myepi.py", line 312, in <module>
+    masked_out = mask * out
+TypeError: only integer tensors of a single element can be converted to an index
